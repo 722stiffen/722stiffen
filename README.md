@@ -1,4 +1,6 @@
 <!-- Typing SVG -->
+
+### 👤 About Me
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Stiffen+De+Castro;A+passionate+Software+Engineer;I+love+building+cool+stuff&font=Fira+Code&center=true&width=440&height=45&color=00FFCC&vCenter=true&pause=1000&size=22" />
 </p>
