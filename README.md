@@ -24,7 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=722stiffen&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -34,7 +33,5 @@
 
 ---
 
-### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/722stiffen/722stiffen/output/github-contribution-grid-snake-dark.svg)
 
-```markdown
-![Snake dark](https://raw.githubusercontent.com/722stiffen/722stiffen/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
