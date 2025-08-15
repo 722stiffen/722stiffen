@@ -7,10 +7,9 @@
 
 ---
 
-### 👨‍💻 Socials
+### 🐍 Contribution Graph
 
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/ehmyazxll)
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/0xkhrystoffer.eth)
+![Snake animation](https://raw.githubusercontent.com/722stiffen/722stiffen/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -41,7 +40,8 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 👨‍💻 Connect With Me
 
-![Snake animation](https://raw.githubusercontent.com/722stiffen/722stiffen/output/github-contribution-grid-snake-dark.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/ehmyazxll)
+[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/0xkhrystoffer.eth)
 
