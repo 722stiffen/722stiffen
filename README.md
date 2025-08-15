@@ -7,6 +7,13 @@
 
 ---
 
+### 👨‍💻 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/ehmyazxll)
+[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/0xkhrystoffer.eth)
+
+---
+
 ### 🛠️ My Tech Stack
 
 <p align="left">
@@ -21,7 +28,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 
 ---
 
